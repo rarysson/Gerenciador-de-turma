@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1479579938 source:c:\users\r_gui\desktop\projeto\prova_3_rarysson\aluno.c
+	"aluno.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1479606936 c:\users\r_gui\desktop\projeto\prova_3_rarysson\aluno.h
+
+1479753755 source:c:\users\r_gui\desktop\projeto\prova_3_rarysson\interacao.c
+	"interacao.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<ctype.h>
+
+1479746852 source:c:\users\r_gui\desktop\projeto\prova_3_rarysson\main.c
+	"aluno.h"
+	"interacao.h"
+	"leitura.h"
+	"turma.h"
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1479753416 source:c:\users\r_gui\desktop\projeto\prova_3_rarysson\leitura.c
+	"leitura.h"
+	"aluno.h"
+	"interacao.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1479578212 c:\users\r_gui\desktop\projeto\prova_3_rarysson\leitura.h
+
+1479222373 c:\users\r_gui\desktop\projeto\prova_3_rarysson\interacao.h
+
+1479748252 source:c:\users\r_gui\desktop\projeto\prova_3_rarysson\turma.c
+	"turma.h"
+	"aluno.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1479516305 c:\users\r_gui\desktop\projeto\prova_3_rarysson\turma.h
+	<stdio.h>
+	"aluno.h"
+
